@@ -1,7 +1,8 @@
-#Juego de Ahorcado en Java
+# Juego de Ahorcado en Java
+
 Donde debemos ir colocando letra por letra, con una cantidad de letras limitadas. Si conseguis adivinar la palabra, ganas. Caso contrario perdes
 
-##Herramientas
+## Herramientas
 *Clase Scanner
 *Declaraciones y Asignaciones
 *Arreglos
